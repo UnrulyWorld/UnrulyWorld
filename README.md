@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dbellemare/count.svg" />
+  <img src="https://profile-counter.glitch.me/UnrulyWorld/count.svg" />
 </p>
 
- ![Dim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbellemare&show_icons=true&theme=dark)
+ ![Dim's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnrulyWorld&show_icons=true&theme=dark)
